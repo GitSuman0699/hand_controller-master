@@ -1,8 +1,8 @@
-# Hand controller: control cars using hands, in Games
+# Counting Fingers
 
-This project uses the Python OpenCV module to detect hand gestures and control a car in GTA 5. By using computer vision techniques, the program captures the movements of the user's hand and translates them into corresponding actions in the game. This allows the user to drive the car, change directions, and perform other actions simply by moving their hand in front of the camera.
+I saw a video on Instagram where the guy is driving a car using hand gestures in the GTA 5 game. I was so amazed and inspired by that project that I started researching, and today I ended up creating this small project, "Counting Fingers"
 
-checkout the Instagram reel from here: [link](https://www.instagram.com/reel/C6a2JnWypLX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+Check out the Instagram reel here: [link](https://www.instagram.com/reel/C6a2JnWypLX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ## Installation
 
@@ -17,20 +17,10 @@ pip install -r requirements.txt
 - Run `main-pc-cam.py`
 
 #### Using Mobile camera:
-- Download IP Webcam App in your mobile and put the IP in the `url` variable in code
+- Download the IP Webcam app on your mobile and put the IP in the `url` variable in the code
 - then simply run `main-mobile-cam.py`
 
-And put your hand in front of the Camera to control the CARRR! 🚗
-
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+And put your hand in front of the Camera
 
 ## License
 
