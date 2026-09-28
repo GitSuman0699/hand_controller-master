@@ -1,4 +1,4 @@
-# Hand controller: control cars 🚗 using hands, in Games
+# Hand controller: control cars using hands, in Games
 
 This project uses the Python OpenCV module to detect hand gestures and control a car in GTA 5. By using computer vision techniques, the program captures the movements of the user's hand and translates them into corresponding actions in the game. This allows the user to drive the car, change directions, and perform other actions simply by moving their hand in front of the camera.
 
