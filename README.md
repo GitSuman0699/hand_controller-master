@@ -4,6 +4,8 @@ I saw a video on Instagram where the guy is driving a car using hand gestures in
 
 Check out the Instagram reel here: [link](https://www.instagram.com/reel/C6a2JnWypLX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
+Here is what I built: [link](https://lnkd.in/p/dpGErUTG)
+
 ## Installation
 
 Run the following command:
